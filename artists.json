@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075db"
+    },
+    "name": "Ed Sheeran",
+    "date_of_birth": "1991-02-17",
+    "genre": "Pop"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075dc"
+    },
+    "name": "Beyoncé",
+    "date_of_birth": "1981-09-04",
+    "genre": "R&B"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075dd"
+    },
+    "name": "Taylor Swift",
+    "date_of_birth": "1989-12-13",
+    "genre": "Pop"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075de"
+    },
+    "name": "Kendrick Lamar",
+    "date_of_birth": "1987-06-17",
+    "genre": "Hip Hop"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075df"
+    },
+    "name": "Adele",
+    "date_of_birth": "1988-05-05",
+    "genre": "Pop"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075e0"
+    },
+    "name": "Drake",
+    "date_of_birth": "1986-10-24",
+    "genre": "Hip Hop"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075e1"
+    },
+    "name": "Rihanna",
+    "date_of_birth": "1988-02-20",
+    "genre": "R&B"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075e2"
+    },
+    "name": "Eminem",
+    "date_of_birth": "1972-10-17",
+    "genre": "Hip Hop"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075e3"
+    },
+    "name": "Lady Gaga",
+    "date_of_birth": "1986-03-28",
+    "genre": "Pop"
+}
+{
+    "_id": {
+        "$oid": "64b542ffd981976388b075e4"
+    },
+    "name": "Bruno Mars",
+    "date_of_birth": "1985-10-08",
+    "genre": "Pop"
+}

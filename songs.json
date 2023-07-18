@@ -1,0 +1,80 @@
+{
+    "_id": {
+        "$oid": "64b53e02d981976388b075d1"
+    },
+    "title": "Tampar",
+    "artist": "Juicy Lucy",
+    "album": "Tampar"
+}
+{
+    "_id": {
+        "$oid": "64b53f56d981976388b075d2"
+    },
+    "title": "Lantas",
+    "artist": "Juicy Lucy",
+    "album": "Sentimental"
+}
+{
+    "_id": {
+        "$oid": "64b53f56d981976388b075d3"
+    },
+    "title": "Tanpa Tergesa",
+    "artist": "Juicy Lucy",
+    "album": "Sentimental"
+}
+{
+    "_id": {
+        "$oid": "64b53f56d981976388b075d4"
+    },
+    "title": "Sayangnya",
+    "artist": "Juicy Lucy",
+    "album": "Single"
+}
+{
+    "_id": {
+        "$oid": "64b53f56d981976388b075d5"
+    },
+    "title": "Terlalu Tinggi",
+    "artist": "Juicy Lucy",
+    "album": "Sentimental"
+}
+{
+    "_id": {
+        "$oid": "64b53f56d981976388b075d6"
+    },
+    "title": "I Still Love You",
+    "artist": "TheOvertunes",
+    "album": "OST Cek Toko Sebelah"
+}
+{
+    "_id": {
+        "$oid": "64b54037d981976388b075d7"
+    },
+    "title": "Sayap Pelindungmu",
+    "artist": "TheOvertunes",
+    "album": "Selamanya"
+}
+{
+    "_id": {
+        "$oid": "64b54037d981976388b075d8"
+    },
+    "title": "Berlari Tanpa Kaki",
+    "artist": "TheOvertunes",
+    "album": "Berlari Tanpa Kaki"
+}
+{
+    "_id": {
+        "$oid": "64b54037d981976388b075d9"
+    },
+    "title": "Takkan Kemana",
+    "artist": "TheOvertunes",
+    "album": "Memory Lane"
+}
+{
+    "_id": {
+        "$oid": "64b54037d981976388b075da"
+    },
+    "title": "If It's For You",
+    "artist": "TheOvertunes",
+    "album": "Selamanya"
+}
